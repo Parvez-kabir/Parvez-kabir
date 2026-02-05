@@ -10,7 +10,7 @@ and exploring the future of AI-driven technology.
 
 ## 🌟 About Me
 
-🎓 Computer Science & Engineering student  
+🎓 Computer Science & Engineering Graduated  
 🧠 Curious about Machine Learning & AI research  
 🔍 Focused on intelligent system design  
 ⚡ Love experimenting with models & architectures  
@@ -24,9 +24,9 @@ I enjoy transforming ideas into practical solutions through **research, coding, 
 
 🧬 Medical Image Analysis  
 🤖 Machine Learning & Deep Learning  
-👁 Computer Vision  
+👁 Computer Vision 
 📊 Data Science  
-🧩 Intelligent Hybrid Systems  
+🧩 LLM 
 
 ---
 

@@ -1,43 +1,96 @@
-# MD-PARVEZ-KABIR
-Bio
-# Hi there, I'm MD PARVEZ KABIR 👋
-**CSE Graduate | Machine Learning & Data Science Enthusiast | Problem Solver**
+<h1 align="center">🚀 Md Parvez Kabir</h1>
+<h3 align="center">💻 CSE Graduated | 🤖AI and ML Engineer | 🔬 Research Explorer</h3>
+
+<p align="center">
+Passionate about building intelligent systems, solving real-world problems,  
+and exploring the future of AI-driven technology.
+</p>
 
 ---
 
-### 🚀 About Me
-I am a passionate CSE Graduate dedicated to exploring the realms of **Machine Learning, Data Science, and AI**. I love building intelligent systems that solve real-world problems. Currently, I am focusing on deep learning and natural language processing.
+## 🌟 About Me
 
-- 🔭 I’m currently working on **LLM-based Chatbots** and **Deep Learning projects**.
-- 🌱 I’m currently learning **Advanced RAG (Retrieval-Augmented Generation)**.
-- 💬 Ask me about **Python, ML Algorithms, or Java**.
-- 📫 How to reach me: [আপনার ইমেল এখানে দিন]
+🎓 Computer Science & Engineering student  
+🧠 Curious about Machine Learning & AI research  
+🔍 Focused on intelligent system design  
+⚡ Love experimenting with models & architectures  
+📚 Continuous learner & problem solver  
 
----
-
-### 🛠 Tech Stack
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, Java, SQL |
-| **Libraries** | NumPy, Pandas, Scikit-Learn, TensorFlow, Keras |
-| **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
-| **Specialization** | Machine Learning, Deep Learning, ANN, CNN |
+I enjoy transforming ideas into practical solutions through **research, coding, and innovation**.
 
 ---
 
-### 📂 Top Projects
-- **Lex-AI-LLM-Based-Law-Chatbot**: A legal chatbot using RAG with Gemini LLM trained on Penal Code.
-- **ANN_Based_Churn_Prediction**: Predicting customer churn using Artificial Neural Networks.
-- **AgroAI-CropAdvisor**: A Random Forest-based system for suggesting crops based on soil and weather.
-- **End-to-End-Deep-Learning**: CNN-based plant disease classification using Transfer Learning.
+## 🔬 Research Interests
+
+🧬 Medical Image Analysis  
+🤖 Machine Learning & Deep Learning  
+👁 Computer Vision  
+📊 Data Science  
+🧩 Intelligent Hybrid Systems  
 
 ---
 
-### 📊 GitHub Stats
-![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvez-kabir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez-kabir&layout=compact&theme=radical)
+## 🛠 Tech Stack
+
+### 💻 Languages
+🐍 Python  
+☕ Java  
+⚙ C/C++  
+🌐 HTML/CSS  
+
+### 🧠 Frameworks & Tools
+🔥 PyTorch  
+📊 Scikit-learn  
+📓 Jupyter Notebook  
+🔧 Git & GitHub  
+
+### 📚 Core Concepts
+🧠 Neural Networks  
+📈 Model Evaluation  
+🔄 Data Processing  
+🔍 Research Methodology  
 
 ---
 
-### 🤝 Connect with Me
-[LinkedIn](আপনার_লিঙ্ক) | [Portfolio](আপনার_লিঙ্ক) | [Twitter](আপনার_লিঙ্ক)
+## 🚀 Current Focus
+
+✨ Advanced ML experimentation  
+🧪 Medical imaging research  
+⚙ Hybrid model architectures  
+📖 Academic research projects  
+
+---
+
+## 🎯 Goals
+
+🏆 Build research-quality AI projects  
+🌍 Solve impactful real-world problems  
+🤝 Collaborate with developers & researchers  
+📈 Grow as an AI engineer & researcher  
+
+---
+
+## 📊 Developer Mindset
+
+✔ Clean & efficient code  
+✔ Reproducible experiments  
+✔ Structured problem solving  
+✔ Continuous improvement  
+
+---
+
+## 🤝 Collaboration
+
+💬 Open to learning, teamwork, and meaningful tech discussions  
+🚀 Always excited about innovative AI projects  
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: *your-github-link*  
+💼 LinkedIn: *your-linkedin-link*
+
+---
+
+<h3 align="center">⭐ “Build. Learn. Research. Repeat.” ⭐</h3>
